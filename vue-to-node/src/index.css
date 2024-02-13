@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    /* border: 1px solid red; */
+}
+
+body {
+    height: 100vh;
+    background-color: #e0e0e0;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
