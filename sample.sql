@@ -11,7 +11,7 @@
  Target Server Version : 50617
  File Encoding         : 65001
 
- Date: 13/02/2024 16:01:24
+ Date: 14/02/2024 17:25:00
 */
 
 SET NAMES utf8mb4;
@@ -151,6 +151,28 @@ INSERT INTO `ref` VALUES ('Younha', 'End Theory Final Ed.', '7001.00', '220330',
 INSERT INTO `ref` VALUES ('Yoon Jisung', 'Miro', '6595.00', '220427', '220430');
 INSERT INTO `ref` VALUES ('Younite', 'Youni-Birth', '21927.00', '220422', '220430');
 INSERT INTO `ref` VALUES ('Yuju', 'Rec.', '22970.00', '220121', '220131');
+INSERT INTO `ref` VALUES ('Eman', 'Name', NULL, NULL, NULL);
+INSERT INTO `ref` VALUES ('Eman', 'Name', NULL, NULL, NULL);
+INSERT INTO `ref` VALUES ('Eman', 'Name', NULL, NULL, NULL);
+INSERT INTO `ref` VALUES ('Album', 'Artist ', NULL, NULL, NULL);
+
+-- ----------------------------
+-- Table structure for test
+-- ----------------------------
+DROP TABLE IF EXISTS `test`;
+CREATE TABLE `test`  (
+  `artist` varchar(50) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
+  `album` varchar(50) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 13 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Compact;
+
+-- ----------------------------
+-- Records of test
+-- ----------------------------
+INSERT INTO `test` VALUES ('Test', 'test', 1);
+INSERT INTO `test` VALUES ('asd', 'qwe', 2);
+INSERT INTO `test` VALUES ('samp', 'sample', 3);
 
 -- ----------------------------
 -- Procedure structure for topten
