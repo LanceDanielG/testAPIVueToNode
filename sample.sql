@@ -11,7 +11,7 @@
  Target Server Version : 50617
  File Encoding         : 65001
 
- Date: 14/02/2024 17:25:00
+ Date: 15/02/2024 14:29:11
 */
 
 SET NAMES utf8mb4;
@@ -165,104 +165,32 @@ CREATE TABLE `test`  (
   `album` varchar(50) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
   `id` int(11) NOT NULL AUTO_INCREMENT,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 13 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Compact;
+) ENGINE = InnoDB AUTO_INCREMENT = 11 CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of test
 -- ----------------------------
-INSERT INTO `test` VALUES ('Test', 'test', 1);
+INSERT INTO `test` VALUES ('simp', 'ka', 1);
 INSERT INTO `test` VALUES ('asd', 'qwe', 2);
 INSERT INTO `test` VALUES ('samp', 'sample', 3);
 
 -- ----------------------------
--- Procedure structure for topten
+-- Procedure structure for storeAlbums
 -- ----------------------------
-DROP PROCEDURE IF EXISTS `topten`;
+DROP PROCEDURE IF EXISTS `storeAlbums`;
 delimiter ;;
-CREATE PROCEDURE `topten`()
+CREATE PROCEDURE `storeAlbums`(uid int, artists VARCHAR(255), albums VARCHAR(255))
 BEGIN
-    DECLARE done INT DEFAULT FALSE;
-    DECLARE year_value INT;
-    DECLARE cur CURSOR FOR SELECT `year` FROM (SELECT YEAR(`Date Released`) AS `year` FROM ref GROUP BY YEAR(`Date Released`)) AS years;
-    DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
-
-    OPEN cur;
-
-    read_loop: LOOP
-        FETCH cur INTO year_value;
-        IF done THEN
-            LEAVE read_loop;
-        END IF;
-
-        SET @sql = CONCAT('
-            SELECT COUNT(Artist) AS totalAlbums,
-                   Artist,
-                   Album,
-                   SUM(`2022 Sales`) AS peralbumsales,
-                   `Date Released`,
-                   YEAR(ref.`Date Released`) AS refyear,
-                   yearcolumn.`year`
-            FROM ref
-            LEFT JOIN (SELECT YEAR(`Date Released`) AS `year` FROM ref GROUP BY YEAR(`Date Released`)) AS yearcolumn ON yearcolumn.`year` = YEAR(ref.`Date Released`)
-            WHERE YEAR(ref.`Date Released`) = ', year_value, '
-            GROUP BY Artist, Album, YEAR(ref.`Date Released`)
-            ORDER BY YEAR(ref.`Date Released`), SUM(`2022 Sales`) DESC
-            LIMIT 10;
-        ');
-
-        PREPARE stmt FROM @sql;
-        EXECUTE stmt;
-        DEALLOCATE PREPARE stmt;
-
-    END LOOP;
-
-    CLOSE cur;
-END
-;;
-delimiter ;
-
--- ----------------------------
--- Procedure structure for YearBasedSelect
--- ----------------------------
-DROP PROCEDURE IF EXISTS `YearBasedSelect`;
-delimiter ;;
-CREATE PROCEDURE `YearBasedSelect`()
-BEGIN
-    DECLARE done INT DEFAULT FALSE;
-    DECLARE year_value INT;
-    DECLARE cur CURSOR FOR SELECT `year` FROM (SELECT YEAR(`Date Released`) AS `year` FROM ref GROUP BY YEAR(`Date Released`)) AS years;
-    DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
-
-    OPEN cur;
-
-    read_loop: LOOP
-        FETCH cur INTO year_value;
-        IF done THEN
-            LEAVE read_loop;
-        END IF;
-
-        SET @sql = CONCAT('
-            SELECT COUNT(Artist) AS totalAlbums,
-                   Artist,
-                   Album,
-                   SUM(`2022 Sales`) AS peralbumsales,
-                   `Date Released`,
-                   YEAR(ref.`Date Released`) AS refyear,
-                   yearcolumn.`year`
-            FROM ref
-            LEFT JOIN (SELECT YEAR(`Date Released`) AS `year` FROM ref GROUP BY YEAR(`Date Released`)) AS yearcolumn ON yearcolumn.`year` = YEAR(ref.`Date Released`)
-            WHERE YEAR(ref.`Date Released`) = ', year_value, '
-            GROUP BY Artist, Album, YEAR(ref.`Date Released`)
-            ORDER BY YEAR(ref.`Date Released`), SUM(`2022 Sales`) DESC;
-        ');
-
-        PREPARE stmt FROM @sql;
-        EXECUTE stmt;
-        DEALLOCATE PREPARE stmt;
-
-    END LOOP;
-
-    CLOSE cur;
+    IF EXISTS(SELECT 1 FROM `test` WHERE id = uid) THEN
+        UPDATE `test` 
+        SET artist = artists, album = albums
+        WHERE id = uid;
+    ELSE
+        INSERT INTO `test`
+            (artist, album)
+        VALUES
+            (artists, albums);
+    END IF;
 END
 ;;
 delimiter ;
