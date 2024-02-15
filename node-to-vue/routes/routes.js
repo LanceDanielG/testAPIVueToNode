@@ -10,4 +10,6 @@ router.post('/storeAlbum', albumController.storeAlbum);
 
 router.get(`/getAlbumById/:id`, albumController.getAlbumById);
 
+router.delete(`/deleteAlbum/:id`, albumController.deleteAlbum);
+
 module.exports = router;

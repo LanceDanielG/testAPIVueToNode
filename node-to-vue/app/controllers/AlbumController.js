@@ -7,20 +7,24 @@ async function getAlbums(req, res) {
 }
 
 async function getAlbumById(req, res) {   
-    console.log(req.body)
+    const id = req.params.id; 
     try {
-        // console.log(req.body)
+        const [rows] = await db.promise().query("SELECT * FROM test WHERE id = ?", [id]);
+        if (rows.length > 0) {
+            res.json(rows[0]); 
+        } else {
+            res.status(404).json({ error: "Album not found" });
+        }
     } catch (error) {
-        console.error("Error:", error);
+        console.error("Error fetching album:", error);
+        res.status(500).json({ error: "Internal server error" });
     }
-    // const result = db.promise().query("SELECT * FROM test WHERE id = ?", id);
-    // res.json(result)
 }
 
 async function storeAlbum(req, res) {
-    const { album, artist } = req.body; 
+    const { album, artist, id } = req.body; 
     try {
-        const result = await db.promise().query("INSERT INTO test (artist, album) VALUES (?, ?)", [artist, album]);
+        const result = await db.promise().query("CALL storeAlbums(?, ?, ?)", [id, artist, album]);
         if (result[0].affectedRows === 1) {
             res.status(201).json({ message: "Album stored successfully" });
         } else {
@@ -32,8 +36,24 @@ async function storeAlbum(req, res) {
     }
 }
 
+async function deleteAlbum(req, res) {
+    const id = req.params.id; 
+    try {
+        const result = await db.promise().query("DELETE FROM test WHERE id = ?", [id]);
+        if (result[0].affectedRows === 1) {
+            res.status(201).json({ message: "Album Deleted successfully" });
+        } else {
+            res.status(500).json({ error: "Failed to Deleted album" });
+        }
+    } catch (error) {
+        console.error("Error deleting album:", error);
+        res.status(500).json({ error: "Internal server error" });
+    }
+}
+
 module.exports = {
     getAlbums,
     getAlbumById,
-    storeAlbum
+    storeAlbum,
+    deleteAlbum
 }
