@@ -58,10 +58,10 @@
                 albums: null,
                 albumById: null,
                 uid: '',
-                artist: '', // Add this line
-                album: '', // Add this line
-                dateReleased: '', // Add this line
-                dateModified: '' // Add this line
+                artist: '', 
+                album: '', 
+                dateReleased: '', 
+                dateModified: '' 
             };
         },
         created: function() {
