@@ -1,0 +1,3141 @@
+Tue, 20 Feb 2024 06:00:11 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:11 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:12 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:12 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:13 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:13 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:14 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:14 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:15 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:15 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:16 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:16 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:18 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:18 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:19 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:19 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:20 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:20 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:21 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:21 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:22 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:22 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:23 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:23 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:24 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:24 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:26 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:26 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:27 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:27 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:28 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:28 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:29 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:29 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:30 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:30 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:31 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:31 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:33 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:33 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:34 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:34 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:35 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:35 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:36 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:36 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:37 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:37 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:38 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:38 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:39 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:39 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:40 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:40 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:42 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:42 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:43 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:43 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:44 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:44 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:45 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:45 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:46 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:46 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:47 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:47 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:48 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:48 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:49 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:49 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:51 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:51 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:52 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:52 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:53 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:53 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:54 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:54 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:56 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:56 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:57 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:57 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:00:58 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:00:58 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:00 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:00 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:01 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:01 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:02 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:02 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:03 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:03 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:04 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:04 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:05 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:05 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:06 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:06 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:07 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:07 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:08 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:08 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:10 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:10 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:11 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:11 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:12 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:12 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:13 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:13 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:14 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:14 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:15 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:15 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:17 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:17 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:18 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:18 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:19 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:19 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:20 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:20 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:21 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:21 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:23 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:23 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:24 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:24 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:25 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:25 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:27 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:27 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:28 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:28 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:29 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:29 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:30 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:30 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:31 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:31 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:32 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:32 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:34 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:34 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:35 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:35 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:36 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:36 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:37 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:37 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:38 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:38 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:40 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:40 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:41 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:41 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:42 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:42 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:43 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:43 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:44 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:44 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:45 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:45 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:46 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:46 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:48 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:48 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:49 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:49 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:50 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:50 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:51 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:51 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:52 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:52 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:53 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:53 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:55 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:55 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:56 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:56 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:57 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:57 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:58 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:58 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:01:59 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:01:59 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:00 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:00 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:02 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:02 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:03 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:03 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:04 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:04 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:05 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:05 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:06 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:06 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:07 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:07 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:08 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:08 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:09 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:09 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:10 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:10 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:11 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:11 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:13 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:13 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:14 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:14 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:15 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:15 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:16 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:16 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Tue, 20 Feb 2024 06:02:17 GMT morgan deprecated undefined format: specify a format at server.js:17:9
+Tue, 20 Feb 2024 06:02:17 GMT morgan deprecated default format: use combined format at server.js:17:9
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:29:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\routes\routes.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (C:\Users\ldgallos\AppData\Roaming\npm\node_modules\pm2\node_modules\require-in-the-middle\index.js:101:39)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\server.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+Error: Connection lost: The server closed the connection.
+    at Socket.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\mysql2\lib\connection.js:117:31)
+    at Socket.emit (node:events:514:28)
+    at TCP.<anonymous> (node:net:337:12) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+Error: Connection lost: The server closed the connection.
+    at Socket.<anonymous> (C:\Users\ldgallos\Desktop\Files\test\node-to-vue\node_modules\mysql2\lib\connection.js:117:31)
+    at Socket.emit (node:events:514:28)
+    at TCP.<anonymous> (node:net:337:12) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
